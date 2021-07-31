@@ -5,3 +5,5 @@
 // Build-Trace #2: Formatierung und Kommentare angepasst
 
 // Build-Trace #3: Eigene Glyphen-Schriftart in default8.json
+
+// Build-Trace #4: Imports bereinigt
