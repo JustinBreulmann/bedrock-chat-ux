@@ -7,3 +7,5 @@
 // Build-Trace #3: Eigene Glyphen-Schriftart in default8.json
 
 // Build-Trace #4: Imports bereinigt
+
+// Build-Trace #5: Hotbar-Setup Funktionen
