@@ -9,3 +9,5 @@
 // Build-Trace #4: Imports bereinigt
 
 // Build-Trace #5: Hotbar-Setup Funktionen
+
+// Build-Trace #6: Randfall abgefangen
