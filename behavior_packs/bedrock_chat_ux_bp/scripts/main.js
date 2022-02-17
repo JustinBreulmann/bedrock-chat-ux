@@ -11,3 +11,5 @@
 // Build-Trace #5: Hotbar-Setup Funktionen
 
 // Build-Trace #6: Randfall abgefangen
+
+// Build-Trace #7: Chat-Nachrichtenunterdrückung bei Mute gefixt
