@@ -13,3 +13,5 @@
 // Build-Trace #6: Randfall abgefangen
 
 // Build-Trace #7: Chat-Nachrichtenunterdrückung bei Mute gefixt
+
+// Build-Trace #8: min_engine_version auf 1.18.0 angehoben
