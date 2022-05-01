@@ -19,3 +19,5 @@
 // Build-Trace #9: Spieler Join- und Leave-Nachrichten
 
 // Build-Trace #10: Cooldown angepasst
+
+// Build-Trace #11: console.log entfernt
