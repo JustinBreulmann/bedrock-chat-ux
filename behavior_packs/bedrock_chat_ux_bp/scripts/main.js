@@ -21,3 +21,5 @@
 // Build-Trace #10: Cooldown angepasst
 
 // Build-Trace #11: console.log entfernt
+
+// Build-Trace #12: ups, das korrigiert
