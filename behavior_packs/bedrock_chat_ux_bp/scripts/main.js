@@ -23,3 +23,5 @@
 // Build-Trace #11: console.log entfernt
 
 // Build-Trace #12: ups, das korrigiert
+
+// Build-Trace #13: Prüfung auf undefined hinzugefügt
