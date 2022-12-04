@@ -25,3 +25,5 @@
 // Build-Trace #12: ups, das korrigiert
 
 // Build-Trace #13: Prüfung auf undefined hinzugefügt
+
+// Build-Trace #14: Datei neu formatiert
