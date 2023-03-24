@@ -27,3 +27,5 @@
 // Build-Trace #13: Prüfung auf undefined hinzugefügt
 
 // Build-Trace #14: Datei neu formatiert
+
+// Build-Trace #16: kleines Update
