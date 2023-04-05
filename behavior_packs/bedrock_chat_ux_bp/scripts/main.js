@@ -29,3 +29,5 @@
 // Build-Trace #14: Datei neu formatiert
 
 // Build-Trace #16: kleines Update
+
+// Build-Trace #17: Deutsche und englische Übersetzungstexte
