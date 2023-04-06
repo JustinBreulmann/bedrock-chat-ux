@@ -31,3 +31,5 @@
 // Build-Trace #16: kleines Update
 
 // Build-Trace #17: Deutsche und englische Übersetzungstexte
+
+// Build-Trace #18: Tippfehler behoben
