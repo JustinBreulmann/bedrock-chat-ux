@@ -33,3 +33,5 @@
 // Build-Trace #17: Deutsche und englische Übersetzungstexte
 
 // Build-Trace #18: Tippfehler behoben
+
+// Build-Trace #19: Code aufgeräumt
