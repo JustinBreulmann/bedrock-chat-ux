@@ -35,3 +35,5 @@
 // Build-Trace #18: Tippfehler behoben
 
 // Build-Trace #19: Code aufgeräumt
+
+// Build-Trace #20: Werte feinjustiert
