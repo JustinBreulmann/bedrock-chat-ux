@@ -37,3 +37,5 @@
 // Build-Trace #19: Code aufgeräumt
 
 // Build-Trace #20: Werte feinjustiert
+
+// Build-Trace #21: Gamemode-Umschaltbefehle (/gm 0, 1, 2, 3)
