@@ -41,3 +41,5 @@
 // Build-Trace #21: Gamemode-Umschaltbefehle (/gm 0, 1, 2, 3)
 
 // Build-Trace #22: auf lokaler Testwelt ausprobiert
+
+// Build-Trace #24: Chat-Präfix-Formatierung mit Farbcodes
