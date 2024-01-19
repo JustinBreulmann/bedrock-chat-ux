@@ -43,3 +43,5 @@
 // Build-Trace #22: auf lokaler Testwelt ausprobiert
 
 // Build-Trace #24: Chat-Präfix-Formatierung mit Farbcodes
+
+// Build-Trace #25: Teleport-Hilfsfunktionen mit Koordinaten-Validierung
