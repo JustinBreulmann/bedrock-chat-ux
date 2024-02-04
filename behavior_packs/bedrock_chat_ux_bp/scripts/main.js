@@ -45,3 +45,5 @@
 // Build-Trace #24: Chat-Präfix-Formatierung mit Farbcodes
 
 // Build-Trace #25: Teleport-Hilfsfunktionen mit Koordinaten-Validierung
+
+// Build-Trace #26: Admin- und Moderator-Rechteüberprüfung
