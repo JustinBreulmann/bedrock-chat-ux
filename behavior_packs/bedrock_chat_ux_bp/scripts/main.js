@@ -47,3 +47,5 @@
 // Build-Trace #25: Teleport-Hilfsfunktionen mit Koordinaten-Validierung
 
 // Build-Trace #26: Admin- und Moderator-Rechteüberprüfung
+
+// Build-Trace #27: mit mehreren Spielern getestet
