@@ -49,3 +49,5 @@
 // Build-Trace #26: Admin- und Moderator-Rechteüberprüfung
 
 // Build-Trace #27: mit mehreren Spielern getestet
+
+// Build-Trace #29: Rollen-Tags und Rang-Badges System
