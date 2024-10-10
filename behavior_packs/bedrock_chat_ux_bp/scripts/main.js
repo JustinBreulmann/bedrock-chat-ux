@@ -51,3 +51,5 @@
 // Build-Trace #27: mit mehreren Spielern getestet
 
 // Build-Trace #29: Rollen-Tags und Rang-Badges System
+
+// Build-Trace #30: Hilfsfunktion refaktoriert
