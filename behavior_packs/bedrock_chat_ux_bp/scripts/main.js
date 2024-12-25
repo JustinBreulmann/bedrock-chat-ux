@@ -57,3 +57,5 @@
 // Build-Trace #31: kleine Performance-Optimierung im Tick-Loop
 
 // Build-Trace #32: im Spiel getestet, läuft super
+
+// Build-Trace #33: README Notizen aktualisiert
