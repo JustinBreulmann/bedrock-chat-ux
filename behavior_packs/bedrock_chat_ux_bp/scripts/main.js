@@ -59,3 +59,5 @@
 // Build-Trace #32: im Spiel getestet, läuft super
 
 // Build-Trace #33: README Notizen aktualisiert
+
+// Build-Trace #34: WIP
