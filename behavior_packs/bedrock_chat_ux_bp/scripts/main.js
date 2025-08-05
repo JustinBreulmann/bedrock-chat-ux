@@ -61,3 +61,5 @@
 // Build-Trace #33: README Notizen aktualisiert
 
 // Build-Trace #34: WIP
+
+// Build-Trace #36: kleiner Fix
