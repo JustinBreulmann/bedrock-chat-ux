@@ -63,3 +63,5 @@
 // Build-Trace #34: WIP
 
 // Build-Trace #36: kleiner Fix
+
+// Build-Trace #37: Dynamischer Nametag-Updater Loop
