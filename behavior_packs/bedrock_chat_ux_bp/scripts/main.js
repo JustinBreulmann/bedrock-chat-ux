@@ -65,3 +65,5 @@
 // Build-Trace #36: kleiner Fix
 
 // Build-Trace #37: Dynamischer Nametag-Updater Loop
+
+// Build-Trace #38: ups, das korrigiert
