@@ -1,0 +1,1 @@
+tellraw @s {"rawtext":[{"text":"Color Codes: \n §0 0 Schwarz \n §1 1 dunkel Blau \n §2 2 dunkel Grün \n §3 3 Aqua \n §4 4 Rot\n §5 5 Lila \n §6 6 Gold \n §7 7 Grau \n §8 8 dunkel Grau \n §9 9 Blau \n §a a Grün \n §b b hell Blau \n §c c Rot \n §d d Rosa \n §e e Gelb \n §f f Weiß \n §g g Gold "}]}

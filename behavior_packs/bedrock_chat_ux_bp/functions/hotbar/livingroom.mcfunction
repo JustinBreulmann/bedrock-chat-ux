@@ -1,0 +1,9 @@
+replaceitem entity @s slot.hotbar 0 block:concrete_tv_furniture
+replaceitem entity @s slot.hotbar 1 block:sofa
+replaceitem entity @s slot.hotbar 2 block:sofa_inter
+replaceitem entity @s slot.hotbar 3 block:sofa_left
+replaceitem entity @s slot.hotbar 4 block:sofa_middle
+replaceitem entity @s slot.hotbar 5 block:sofa_right
+replaceitem entity @s slot.hotbar 6 block:tv
+replaceitem entity @s slot.hotbar 7 block:notebook
+replaceitem entity @s slot.hotbar 8 brush

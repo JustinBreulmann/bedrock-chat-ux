@@ -1,0 +1,161 @@
+text.smartphone.no_battery=§7Dein Handy ist leer
+item.smartphone:black_smartphone.name=Handy
+
+text.coming_soon= §cIn Entwicklung
+text.you_dont_have_this_item= §cDu besitzt dieses Item nicht!
+text.not_enought_Coins= §cDu hast nicht genug Geld
+text.you_already_have_this_app= §cDu besitzt diese App bereits
+text.app_purchased_sucessfully= §aKauf erfolgreich
+text.app_purchased_unsucessfully= §aDu musst ein Konto eröffnen, um diese App zunutzen
+text.item_purchased_sucessfully= §aKauf erfolgreich
+text.players_online=Spieler Online:
+text.quantity=Geld Menge:
+text.message=Nachricht:
+text.type_here=Schreibe hier
+text.you_cant_send_negative_Coins= §cDeine Überweisungen müssen im positven Bereich sein!
+text.you_cant_send_Coins_to_yourself= §cDu kannst kein Geld an dich selbst senden
+text.you_cant_send_a_message_to_yourself= §cDu kannst dir selber keine Nachricht senden!
+text.you_dont_have_Coins= §cDu hast nicht genug Geld für diese Überweisung
+text.transfer_sucessfull= §aÜberweisung Erfolgreich!
+
+text_smartphoneaddon.message=§eNachrichten§r
+text_smartphoneaddon.made_a_transfer=hat eine Überweisung von 
+text_smartphoneaddon.for_you=§rfür dich
+text_smartphoneaddon.send_a_message=hat dir eine Nachricht gesendet
+text.from=§7von
+text.from_you=§7von dir zu 
+text.to_you=§7zu dir> §r
+
+text.bank_transfer_title=Überweisung
+text.settings_title=Einstellungen
+text.appstore_title=App Store
+text.store_title=Store
+text.store_items_title=Job
+text.store_job_title=Job
+text.bank_title=Bank
+text.bank_deposite_title=Geldanlagen
+text.daynight_title=Uber
+text.weather_title=Weather
+text.effect_title=Jobs
+text.discraft_title=Nachrichten
+
+button.midnight=Moderne
+button.night=Innenstadt
+button.sunset=Outland
+button.noon=EFC
+button.sunrise=Industriegebiet
+button.day=WSH
+
+button.regeneration=Dispatch
+button.speed=Feuerwehr
+button.jump_boost=Polizei
+button.haste=Stadtwerke
+button.night_vision=Moderator
+button.water_breathing=Bänker
+button.clear=Clear Skies
+button.rain=Rain
+button.storm=Storm
+
+button.items=Möbel
+button.blocks=Fahrzeuge
+button.foods=Wohnzimmer [5k]
+button.drops=Badezimmer [3,5k]
+button.armors=Küche [7k]
+button.weapons=Technik [11k]
+
+button.settings_app=§r§7Einstellung
+button.appstore_app=§r§7App Store
+button.store_app=§r§7Store
+button.bank_app=§r§7Bank
+button.music_app=§r§7Spotify
+button.daynight_app=§r§7Uber
+button.weather_app=§a§r§7Stadt
+button.effect_app=§r§7Job
+button.discraft_app=§r§7Nachrichten
+
+button.back=§cZurück
+button.stop_music=§aStop Musik
+button.enable_notific=Aktivere
+button.disable_notific=Deaktivere
+button.transfer_Coins=Überweise Geld
+button.deposite_Coins=Investiere Geld
+
+button.iron_ingot=§r§7Iron Ingot §2$10
+button.gold_ingot=§r§7Gold Ingot §2$25
+button.diamond=§r§7Diamond §2$50
+button.emerald=§r§7Emerald §2$100
+
+button.store_app_purchased=Gekauft!
+button.bank_app_purchased=Gekauft!
+button.music_app_purchased=Gekauft!
+button.daynight_app_purchased=Gekauft!
+button.weather_app_purchased=Gekauft!
+button.effect_app_purchased=Gekauft!
+button.discraft_app_purchased=Gekauft!
+
+button.store_app_purchase=§r§7Store §2$15
+button.bank_app_purchase=§r§7Bank §2$0
+button.music_app_purchase=§r§7Spotify §2$20
+button.daynight_app_purchase=§r§7Uber §2$50
+button.weather_app_purchase=§a§r§7Stadt §2$50
+button.effect_app_purchase=§r§7Job §2$25
+button.discraft_app_purchase=§r§7Nachrichten §2$25
+
+button.Technik=Technik
+button.Sounds=Sounds
+button.equipment=Equipment
+button.show=Show starten
+button.Studio_laden=Studio laden
+button.Fahrstuhl_hoch=Fahrstuhl (oben)
+button.Fahrstuhl_runter=Fahrstuhl (unten)
+button.Studio_1=Studio 1
+button.Studio_2=Studio 2
+button.gong=Gong
+button.Intro=Intro
+button.Outro=Outro
+
+button.kleidung=Ausrüstung
+button.einsatz=Einsatz
+button.fahrzeuge=Fahrzeuge
+button.funk=Funk
+button.outfit=Outfit
+button.brand=Brand
+button.rettung=Rettung
+button.umwelt=Umwelt 
+
+button.Nutzfahrzeuge=Baustellen Fahrzeuge
+button.Ausrüstung=Material
+button.Rechnung=Rechnung ausstellen
+button.ankündigung=Verkehrsmeldung
+
+button.Fahrzeug5=LKW
+button.Fahrzeug4=Betonmischer
+button.Fahrzeug3=Walze
+button.Fahrzeug2=Bager
+button.Fahrzeug1=Bulldozer
+
+button.Einkunft= Spieler Einkunft
+button.Kredit=Kredit
+button.Überweisung=Überweisungen
+button.Stadteinkunft=Stadtkasse
+item.feuerwehr:fire_extinguisher.name=Feuerlöscher
+item.feuerwehr:empty_fire_extinguisher.name=Feuerlöscher [Leer]
+item.smartphone:black_smartphone.name=IPhone
+item.moderator:mircofon.name=Mirkofon
+
+button.income=Überweisung Stadt
+button.WestSideHills=WestSideHills
+button.Greencity=Greencity
+button.industry=Construction
+
+multiplayer.player.joined=§f[§a+§f] %s 
+multiplayer.player.joined.renamed=§f[§a+§f]%s 
+multiplayer.player.left=§f[§c-§f] %s 
+
+disconnect.closed=Server wurde gestoppt
+disconnect.disconnected=Verbindung zum Server getrennt
+disconnect.genericReason=%s
+disconnect.kicked=[Server] Du wurdest Server gebannt für %time Stunden.
+disconnect.kicked.reason=[Server] 
+disconnect.removed=[Server] Du wurdest für %time Stunden vom Server entfernt.
+disconnect.removed.reason=[Server] 

@@ -1,0 +1,9 @@
+replaceitem entity @s slot.hotbar 0 block:gamingpc
+replaceitem entity @s slot.hotbar 1 block:ps5
+replaceitem entity @s slot.hotbar 2 block:camera
+replaceitem entity @s slot.hotbar 3 block:roteador_wifi
+replaceitem entity @s slot.hotbar 4 block:printer
+replaceitem entity @s slot.hotbar 5 feuerwehr:alarm
+replaceitem entity @s slot.hotbar 6 block:doorbell
+replaceitem entity @s slot.hotbar 7 block:headphones
+replaceitem entity @s slot.hotbar 8 block:microphone

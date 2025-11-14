@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Bedrock Chat & Visual UX | RP",
+    "description": "Modular chat engine, role/rank nametags, join/quit broadcasts, custom fonts, glyphs and HUD enhancements for Minecraft Bedrock",
+    "uuid": "f9ac91d1-c128-46a1-9c75-d539348d399d",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ec228163-a46d-48b1-b8cb-7be6a61d1552",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "259a54b0-e2cd-4541-bc5e-b40b86a7270d",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

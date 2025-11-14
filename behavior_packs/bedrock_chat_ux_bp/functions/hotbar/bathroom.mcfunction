@@ -1,0 +1,9 @@
+replaceitem entity @s slot.hotbar 0 block:bathroom_sink
+replaceitem entity @s slot.hotbar 1 block:bathroom_cabinet
+replaceitem entity @s slot.hotbar 2 block:toilet
+replaceitem entity @s slot.hotbar 3 air
+replaceitem entity @s slot.hotbar 4 brush
+replaceitem entity @s slot.hotbar 5 air
+replaceitem entity @s slot.hotbar 6 block:mirror
+replaceitem entity @s slot.hotbar 7 block:shower
+replaceitem entity @s slot.hotbar 8 block:shower_head
