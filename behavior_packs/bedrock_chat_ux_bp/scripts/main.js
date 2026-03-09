@@ -9,3 +9,5 @@ system.runInterval(() => {
 }, 20);
 
 console.warn("[Bedrock Chat & Visual UX] Erfolgreich initialisiert.");
+
+// Build-Trace #41: README Notizen aktualisiert
