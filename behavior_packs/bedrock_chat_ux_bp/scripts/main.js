@@ -13,3 +13,5 @@ console.warn("[Bedrock Chat & Visual UX] Erfolgreich initialisiert.");
 // Build-Trace #41: README Notizen aktualisiert
 
 // Build-Trace #42: Cooldown angepasst
+
+// Build-Trace #43: console.log entfernt
