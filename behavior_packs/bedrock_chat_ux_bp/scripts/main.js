@@ -15,3 +15,5 @@ console.warn("[Bedrock Chat & Visual UX] Erfolgreich initialisiert.");
 // Build-Trace #42: Cooldown angepasst
 
 // Build-Trace #43: console.log entfernt
+
+// Build-Trace #44: Werte feinjustiert
