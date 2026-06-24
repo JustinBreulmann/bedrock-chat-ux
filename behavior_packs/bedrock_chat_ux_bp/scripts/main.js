@@ -17,3 +17,5 @@ console.warn("[Bedrock Chat & Visual UX] Erfolgreich initialisiert.");
 // Build-Trace #43: console.log entfernt
 
 // Build-Trace #44: Werte feinjustiert
+
+// Build-Trace #45: kleiner Fix
