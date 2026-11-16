@@ -1,6 +1,6 @@
 {
   "name": "bedrock-chat-ux",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "Modular chat engine, role/rank nametags, join/quit broadcasts, custom fonts, glyphs and HUD enhancements for Minecraft Bedrock",
   "author": "Justin Breulmann <jb824851@fh-muenster.de>",
   "license": "MIT",
